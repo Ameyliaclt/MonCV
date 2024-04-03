@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Gunship';
-    src: url('/fonts/gunship.ttf');
+    src: url('fonts/gunship.ttf');
 }
 @font-face {
     font-family:'CL EvoluFont';
-    src: url('/fonts/CL\ EvoluFont.ttf');
+    src: url('fonts/CL EvoluFont.ttf');
 }
 body{
     background-color: rgb(24, 59, 72);
