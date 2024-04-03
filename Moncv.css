@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Gunship';
-    src: url('../fonts/gunship.ttf') format('truetype');
-    url('../fonts/gunship.svg#gunship') format ('svg');
-    url('../fonts/gunship.woff') format ('woff');
+    src: url('../fonts/gunship.svg#gunship') format('svg');
+    url('../fonts/gunship.ttf') format('truetype');
+    url('../fonts/gunship.woff') format('woff');
 }
 @font-face {
     font-family:'CL EvoluFont';
